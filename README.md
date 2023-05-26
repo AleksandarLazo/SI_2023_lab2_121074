@@ -7,3 +7,5 @@
 Во нашиот случај Е е 33 а N е 24 па V(G) = 33 - 24 + 2 = 11
 ### Тест случаи според критериумот Every Branch
 ![Screenshot](banchcoverage_121074.png)
+### Multiple-Condition Coverage
+![Screenshot](multiple_condition_coverage_121074.png)
