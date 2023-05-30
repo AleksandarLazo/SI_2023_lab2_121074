@@ -9,3 +9,6 @@
 ![Screenshot](branchcoverage_121074.png)
 ### Multiple-Condition Coverage
 ![Screenshot](multiple_condition_coverage_121074.png)
+### Junit Tests
+![Screenshot](Tests_branch_coverage_121074.PNG)
+![Screenshot](Tests_multiple_condition_121074.PNG)
